@@ -1,4 +1,4 @@
-Task 3 – Tic Tac Toe Web App
+#Task 3 – Tic Tac Toe Web App
 
 As part of my internship at Skillcraft Technology, I was assigned Task 3: Building a Tic Tac Toe game using HTML, CSS and JavaScript.
 The aim of this task was to design and implement an interactive and visually appealing game that demonstrates my ability to:
